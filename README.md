@@ -1,5 +1,5 @@
 # Showroom
-### Basic showroom app for cars written in Rust using Bevy framework
+### Basic showroom app written in Rust using Bevy framework
 
 ## Usage
 ```
